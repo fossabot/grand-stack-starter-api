@@ -18,6 +18,7 @@ npm start
 This will start the GraphQL service (by default on localhost:4000) where you can issue GraphQL requests or access GraphQL Playground in the browser:
 
 ![GraphQL Playground](img/graphql-playground.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-api?ref=badge_shield)
 
 ## Configure
 
@@ -52,3 +53,7 @@ Optionally you can seed the GraphQL service by executing mutations that will wri
 ```
 npm run seedDb
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjohnymontana%2Fgrand-stack-starter-api?ref=badge_large)
